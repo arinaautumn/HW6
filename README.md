@@ -16,4 +16,8 @@
 ![](https://github.com/arinaautumn/HW6/blob/master/Screen%20Shot%202018-04-09%20at%2012.33.39.png?raw=true)   
 Задание 2 
 Были взяты два синонимичных глагола go и walk. Наиболее популярное дополнение, которое получилось в результате запроса, может испольоваться только с глаголом go (go shopping - устойчивое сочетание). Один из самых редко используемых дополнений dog может использоваться только с глаголом walk (to walk a dog). А вот дополнение tomorrow универсальное, то есть может употребляться в сочетании с обоими глаголами. 
+
 ![](https://github.com/arinaautumn/HW6/blob/master/Screen%20Shot%202018-04-09%20at%2012.43.48.png?raw=true)
+
+Задание 3.     
+![](https://github.com/arinaautumn/HW6/blob/master/Screen%20Shot%202018-04-09%20at%2013.00.25.png?raw=true)
