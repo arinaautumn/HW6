@@ -21,3 +21,4 @@
 
 Задание 3.     
 ![](https://github.com/arinaautumn/HW6/blob/master/Screen%20Shot%202018-04-09%20at%2013.00.25.png?raw=true)
+![](https://github.com/arinaautumn/HW6/blob/master/Screen%20Shot%202018-04-09%20at%2013.04.54.png?raw=true)
