@@ -13,3 +13,4 @@
 
 Часть 2.     
 Задание 1.    
+![](https://github.com/arinaautumn/HW6/blob/master/Screen%20Shot%202018-04-09%20at%2012.33.39.png?raw=true)
