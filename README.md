@@ -19,7 +19,8 @@
 
 ![](https://github.com/arinaautumn/HW6/blob/master/Screen%20Shot%202018-04-09%20at%2012.43.48.png?raw=true)
 
-Задание 3.     
+Задание 3.
+В разделе Trends Национального Британского корпуса выбрала слово awards. Согласно данным Sketch Engine, с 1989 года наблюдается резкое увеличение употребления данного слова, а в 1993 году происходит небольшой спад. Данные Ngram также говорят об этом же. 
 ![](https://github.com/arinaautumn/HW6/blob/master/Screen%20Shot%202018-04-09%20at%2013.00.25.png?raw=true)
 ![](https://github.com/arinaautumn/HW6/blob/master/Screen%20Shot%202018-04-09%20at%2013.04.54.png?raw=true)
 ![](https://github.com/arinaautumn/HW6/blob/master/Screen%20Shot%202018-04-09%20at%2013.00.48.png?raw=true)
